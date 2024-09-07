@@ -11,6 +11,7 @@
     <ul>
         <li>Tetap</li>
         <li>Honorer</li>
+        <li>Rankku</li>
     </ul>
 </body>
 </html>
